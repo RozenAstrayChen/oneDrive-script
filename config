@@ -1,4 +1,4 @@
 # Directory where the files will be synced
-sync_dir = "/home/oneTest"
+sync_dir = "/home/OneDriveSave"
 # Skip files and directories that match this pattern
 skip_file = ".*|~*"
